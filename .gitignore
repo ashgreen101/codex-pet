@@ -1,0 +1,10 @@
+.DS_Store
+**/.DS_Store
+
+# Local editor and OS metadata
+*.swp
+*.swo
+
+# Python/cache artifacts that may appear during validation
+__pycache__/
+*.py[cod]
